@@ -2,11 +2,11 @@
 # Problem Solving Table
 | #   | Name          | Solution       |
 | --- | ------------- | -------------- |
-| 1   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
-| 2   | [Remove Element](https://leetcode.com/problems/reverse-integer)  | [Solution](Link) |
-| 3   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
-| 4   | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
-| 5   | [Name](Link)  | [Solution](Link) |
+| 1   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/88.%20Merge%20Sorted%20Array.go) |
+| 2   | [Remove Element](https://leetcode.com/problems/reverse-integer)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Element.go) |
+| 3   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Duplicates%20from%20Sorted%20Array.go) |
+| 4   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Duplicates%20from%20Sorted%20Array%20II.go) |
+| 5   | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Majority%20Element.go) |
 | 6   | [Name](Link)  | [Solution](Link) |
 | 7   | [Name](Link)  | [Solution](Link) |
 | 8   | [Name](Link)  | [Solution](Link) |
