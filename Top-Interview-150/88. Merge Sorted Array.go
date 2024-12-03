@@ -5,9 +5,13 @@ Sorting: The sort.Ints() function in Go is used to sort the integer slice nums1.
 */
 package main
 
-import "sort"
+import (
+	"fmt"
+	"sort"
+)
 
 func merge(nums1 []int, m int, nums2 []int, n int) {
+	fmt.Println(n)
 	nums1 = append(nums1[:m], nums2...)
 	sort.Ints(nums1)
 }
