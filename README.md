@@ -1,5 +1,4 @@
-"# LeetCode-Interview" 
-# Problem Solving Table
+# LeetCode Top Interview 150
 | #   | Name          | Solution       |
 | --- | ------------- | -------------- |
 | 1   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/88.%20Merge%20Sorted%20Array.go) |
@@ -7,7 +6,7 @@
 | 3   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Duplicates%20from%20Sorted%20Array.go) |
 | 4   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Duplicates%20from%20Sorted%20Array%20II.go) |
 | 5   | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Majority%20Element.go) |
-| 6   | [Name](Link)  | [Solution](Link) |
+| 6   | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
 | 7   | [Name](Link)  | [Solution](Link) |
 | 8   | [Name](Link)  | [Solution](Link) |
 | 9   | [Name](Link)  | [Solution](Link) |
