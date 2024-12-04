@@ -7,8 +7,8 @@
 | 4   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Remove%20Duplicates%20from%20Sorted%20Array%20II.go) |
 | 5   | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](https://github.com/fuad7161/LeetCode-Interview/blob/main/Top-Interview-150/Majority%20Element.go) |
 | 6   | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
-| 7   | [Name](Link)  | [Solution](Link) |
-| 8   | [Name](Link)  | [Solution](Link) |
+| 7   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
+| 8   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
 | 9   | [Name](Link)  | [Solution](Link) |
 | 10   | [Name](Link)  | [Solution](Link) |
 | 11   | [Name](Link)  | [Solution](Link) |
