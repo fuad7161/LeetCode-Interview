@@ -9,8 +9,8 @@
 | 6   | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
 | 7   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
 | 8   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
-| 9   | [Name](Link)  | [Solution](Link) |
-| 10   | [Name](Link)  | [Solution](Link) |
+| 9   | [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
+| 10   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150)  | [Solution](Link) |
 | 11   | [Name](Link)  | [Solution](Link) |
 | 12   | [Name](Link)  | [Solution](Link) |
 | 13   | [Name](Link)  | [Solution](Link) |
